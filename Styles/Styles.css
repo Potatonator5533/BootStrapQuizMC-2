@@ -1,0 +1,22 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.cardDimensions {
+    width: 382px;
+    height: 436px;
+}
+
+.noRounded {
+    border-radius: 0;
+}
+
+.carouselDimensions {
+    width: 811.7px;
+    height: 681px;
+}
